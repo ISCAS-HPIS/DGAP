@@ -1,0 +1,4 @@
+[submodule "dgap_pmdk"]
+	path = dgap_pmdk
+	url = https://github.com/ISCAS-HPIS/pmdk.git
+	branch = dgap
